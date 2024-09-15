@@ -1,0 +1,2 @@
+# TWITTER_BULLYING_SENTIMENT_ANALYSIS
+TWITTER CLASSIFICATION OF TWEETS to find whetther they are bullying or not
